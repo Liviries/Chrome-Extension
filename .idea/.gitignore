@@ -1,8 +1,24 @@
-# Default ignored files
+
+.idea/
+
+*.log
+
+dist/
+build/
+
+.DS_Store
+Thumbs.db
+
+*.bak
+*.swp
+*.swo
+
+.cache/
+.Trashes/
+.Spotlight-V100/
+
 /shelf/
-/workspace.xml
-# Editor-based HTTP Client requests
+workspace.xml
 /httpRequests/
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
+dataSources/
+dataSources.local.xml
